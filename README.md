@@ -25,7 +25,7 @@ O projeto se trata de um pequeno estudo de machine learning utilizando o dataset
  * Aprimorar o tratamento de parâmetros para a Regressão Linear
  * Substituir uso de Hold-out por Cross Validation
  * Desenvolver aplicação com Flask e hospedar no Heroku com os modelos treinados
- * 
+ 
 ## Bibliotecas
  *  Python 3.9.7
  *  Pandas 1.3.4
